@@ -3,6 +3,8 @@ This contain the CPI Inflation project which is completed using Excel
 
 Project Doc Link : https://docs.google.com/spreadsheets/d/19WfsemRQ303hCR--PnvuJgDEHkXAkBU6/edit?gid=60936636#gid=60936636
 
+Dataset Link : https://drive.google.com/file/d/1sMpE--eLcA5s0C1V8liLEaqNgUW0AVSe/view
+
 
 
 Excel remains a relevant and indispensable tool for both big and small companies due to its powerful data analysis capabilities, ease of use, and versatility in handling complex tasks.
