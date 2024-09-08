@@ -5,7 +5,34 @@ Project Doc Link : https://docs.google.com/spreadsheets/d/19WfsemRQ303hCR--PnvuJ
 
 Dataset Link : https://drive.google.com/file/d/1sMpE--eLcA5s0C1V8liLEaqNgUW0AVSe/view
 
+**INSIGHTS :**
 
+**(A) Contribution Anlaysis**
+1. Pan, Tobacco, and Intoxicants is the largest contributor to the CPI Calculation.
+2. Transportation is the smallest Contributor to the CPI Calculation.
+3. Rural Population spends more on Medical and Apparels than Urban population
+
+**(B) Y-O-Y Inflation**
+1. 2022 has the highest inflation rate for the period of 2017-2023											 
+
+**(C) Food And Bev Basket Inflation**
+1. For overall food and beverage basket , the month on month inflation rate reached it's highest in June 2022							
+2. Top 3 contributors to the inflation observed are : Meat and Fish , Spices and finally Prepared Meals , snacks , sweets etc.					
+
+**(D) Covid Impact Analysis**
+1.FOOD AND BEVERAGE - INFLATION SPIKE DURING LOCKDOWN(Mar20-APR20)		- Panic buying and hoarding led to temporary shortages and price hikes for food and beverage Category
+2. EDUCATION INFLATION	- INFLATION SPIKE DURING UNLOCK(Jul 20 - Aug 20)	:
+  i. Shift to Online Learning
+		ii. Cost of Remote Learning Tools
+3. MEDICAL INLFATION - INFLATION SPIKE DURING UNLOCK(Jul 20 - Aug 20)	:
+   i. Increased Demand for Medical Supplies and Services
+   ii. Regulatory Changes and Compliance Costs
+
+**(E) Oil Fluctuation Analysis**
+1. HIGHEST M-O-M % price change was recorded in March-22 with a change of Rs. 18 from last month.					
+2. LOWEST M-O-M % price change was recorded in November-21 .					
+3. Highest and lowest crude oil price were Rs 116.01 and Rs 63.4 recorded in June-2022 and April-2021 respectively.					
+4. Transportaion Basket had the **correlation coefficient of 0.6 with curde oil** priec fluctuation.		
 
 Excel remains a relevant and indispensable tool for both big and small companies due to its powerful data analysis capabilities, ease of use, and versatility in handling complex tasks.
 
