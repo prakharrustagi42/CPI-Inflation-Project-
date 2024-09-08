@@ -20,11 +20,11 @@ Dataset Link : https://drive.google.com/file/d/1sMpE--eLcA5s0C1V8liLEaqNgUW0AVSe
 2. Top 3 contributors to the inflation observed are : Meat and Fish , Spices and finally Prepared Meals , snacks , sweets etc.					
 
 **(D) Covid Impact Analysis**
-1.FOOD AND BEVERAGE - INFLATION SPIKE DURING LOCKDOWN(Mar20-APR20)		- Panic buying and hoarding led to temporary shortages and price hikes for food and beverage Category
-2. EDUCATION INFLATION	- INFLATION SPIKE DURING UNLOCK(Jul 20 - Aug 20)	:
+1.FOOD AND BEVERAGE - INFLATION SPIKE DURING LOCKDOWN(Mar20-APR20) - Panic buying and hoarding led to temporary shortages and price hikes for food and beverage Category
+2. EDUCATION INFLATION	- INFLATION SPIKE DURING UNLOCK(Jul 20 - Aug 20:
   i. Shift to Online Learning
-		ii. Cost of Remote Learning Tools
-3. MEDICAL INLFATION - INFLATION SPIKE DURING UNLOCK(Jul 20 - Aug 20)	:
+  ii. Cost of Remote Learning Tools
+3. MEDICAL INLFATION - INFLATION SPIKE DURING UNLOCK(Jul 20 - Aug 20):
    i. Increased Demand for Medical Supplies and Services
    ii. Regulatory Changes and Compliance Costs
 
@@ -32,8 +32,10 @@ Dataset Link : https://drive.google.com/file/d/1sMpE--eLcA5s0C1V8liLEaqNgUW0AVSe
 1. HIGHEST M-O-M % price change was recorded in March-22 with a change of Rs. 18 from last month.					
 2. LOWEST M-O-M % price change was recorded in November-21 .					
 3. Highest and lowest crude oil price were Rs 116.01 and Rs 63.4 recorded in June-2022 and April-2021 respectively.					
-4. Transportaion Basket had the **correlation coefficient of 0.6 with curde oil** priec fluctuation.		
+4. Transportaion Basket had the **correlation coefficient of 0.6 with curde oil** priec fluctuation.
 
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Excel remains a relevant and indispensable tool for both big and small companies due to its powerful data analysis capabilities, ease of use, and versatility in handling complex tasks.
 
 In this project, I harnessed the power of Excel to transform raw data into insightful and actionable information.
